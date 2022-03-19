@@ -14,7 +14,7 @@ echo -e "\033[31m    \  /\  /  | \__ \ | | |\e[0m| |    | \__ \ | | |     ";
 echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v3.0";
 
 printf " \e[1;93m WishFish v3.0\e[0m \n"
-printf " \e[1;77m youtube.com/White Devil \e[0m \n"
+printf " \e[1;77m Name /Smily FOOL😈\e[0m \n"
 
 printf "\n"
 
